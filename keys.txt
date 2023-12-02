@@ -1,0 +1,2 @@
+AAAAA-BBBBB-CCCCC (optional) Gamename
+AAAAA-BBBBB-CCCCC-DDDDD-EEEEE One key per line with optional gametitle after it
